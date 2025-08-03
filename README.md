@@ -1,3 +1,6 @@
+# PodbayTamaniah
+Assignement
+
 # iTunes Search API - Professional NestJS Implementation
 
 A REST API built with NestJS that integrates with the iTunes Search API to search for podcasts and other media. This implementation provides a clean, straightforward solution for searching and storing iTunes results.
