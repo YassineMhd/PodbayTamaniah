@@ -1,4 +1,4 @@
-# PodbayTamaniah
+# PodbayThmanyah
 Assignement
 
 # iTunes Search API - Professional NestJS Implementation
